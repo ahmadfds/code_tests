@@ -1,0 +1,1 @@
+{"version":1,"defects":{"OffersFacadeTest::test_CountByPriceFilter_WhenGivingAValidPriceRange_ThenItShouldReturnGreaterThanZeroValue":5},"times":{"OffersFacadeTest::test_CountByPriceFilter_WhenGivingAValidPriceRange_ThenItShouldReturnGreaterThanZeroValue":0.012,"OffersFacadeTest::test_CountByVendorFilter_WhenGivingAValidPriceRange_ThenItShouldReturnGreaterThanZeroValue":0}}
